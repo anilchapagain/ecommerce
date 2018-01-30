@@ -1,0 +1,32 @@
+
+
+
+header form a.view-all-post {
+	width: 140px\9;
+}
+
+header form a.post-free-ad {
+	width: 124px\9;
+}
+
+
+
+
+
+.jcarousel-skin-tango .jcarousel-clip-horizontal {
+	padding-bottom: 0;
+	border-bottom: none;
+}
+
+.home-highlights > div h3 span {
+	font-size: 13px;
+}
+
+header form.main-search > input[type=text] {
+	width: 390px;
+}
+
+header form ul li input {
+	padding: 8px 10px 0 30px !important;
+	height: 22px !important;
+}
